@@ -1,2 +1,2 @@
 # customDrawerFlutter
-this project is for learning 
+Creating custom animated drawer
